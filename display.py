@@ -40,6 +40,7 @@ class Display(QLineEdit):
              KEYS.Key_AsciiCircum
         ]
         print("Git test")
+        print("Test git")
         if isEnter:
             self.eqPressed.emit()
             return event.ignore()
