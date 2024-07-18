@@ -41,6 +41,7 @@ class Display(QLineEdit):
         ]
         print("Git test")
         print("test")
+        print("Test git")
         if isEnter:
             self.eqPressed.emit()
             return event.ignore()
