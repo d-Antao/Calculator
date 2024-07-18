@@ -39,9 +39,7 @@ class Display(QLineEdit):
             KEYS.Key_Plus, KEYS.Key_Minus, KEYS.Key_Slash, KEYS.Key_Asterisk,
              KEYS.Key_AsciiCircum
         ]
-        print("Git test")
-        print("test")
-        print("Test git")
+        
         if isEnter:
             self.eqPressed.emit()
             return event.ignore()
