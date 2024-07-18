@@ -1,11 +1,11 @@
 
-from utils import isEmpty, isNumOrDot
-from variables import (BIG_FONT_SIZE, MINIMUM_WIDTH, SMALL_FONT_SIZE,
-                       TEXT_MARGINS)
-
 from PySide6.QtCore import Qt, Signal
 from PySide6.QtGui import QKeyEvent
 from PySide6.QtWidgets import QLabel, QLineEdit, QWidget
+
+from utils import isEmpty, isNumOrDot
+from variables import (BIG_FONT_SIZE, MINIMUM_WIDTH, SMALL_FONT_SIZE,
+                       TEXT_MARGINS)
 
 
 class Display(QLineEdit):
@@ -39,7 +39,7 @@ class Display(QLineEdit):
             KEYS.Key_Plus, KEYS.Key_Minus, KEYS.Key_Slash, KEYS.Key_Asterisk,
              KEYS.Key_AsciiCircum
         ]
-        
+        print("Git test")
         if isEnter:
             self.eqPressed.emit()
             return event.ignore()
