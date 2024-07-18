@@ -1,0 +1,558 @@
+[
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "converToNumber",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "isEmpty",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "isNumOrDot",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "isValidNumber",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "isEmpty",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "isNumOrDot",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIUM_FONT_SIZE",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "BIG_FONT_SIZE",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "MINIMUM_WIDTH",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "SMALL_FONT_SIZE",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "TEXT_MARGINS",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "WINDOW_ICON_PATH",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "DARKER_PRIMARY_COLOR",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "DARKEST_PRIMARY_COLOR",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "PRIMARY_COLOR",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "Slot",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Qt",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "Signal",
+        "importPath": "PySide6.QtCore",
+        "description": "PySide6.QtCore",
+        "isExtraImport": true,
+        "detail": "PySide6.QtCore",
+        "documentation": {}
+    },
+    {
+        "label": "QGridLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QPushButton",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLabel",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QLineEdit",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QApplication",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMainWindow",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QMessageBox",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QVBoxLayout",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QWidget",
+        "importPath": "PySide6.QtWidgets",
+        "description": "PySide6.QtWidgets",
+        "isExtraImport": true,
+        "detail": "PySide6.QtWidgets",
+        "documentation": {}
+    },
+    {
+        "label": "QKeyEvent",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "QIcon",
+        "importPath": "PySide6.QtGui",
+        "description": "PySide6.QtGui",
+        "isExtraImport": true,
+        "detail": "PySide6.QtGui",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "qdarktheme",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qdarktheme",
+        "description": "qdarktheme",
+        "detail": "qdarktheme",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "importPath": "buttons",
+        "description": "buttons",
+        "isExtraImport": true,
+        "detail": "buttons",
+        "documentation": {}
+    },
+    {
+        "label": "ButtonsGrid",
+        "importPath": "buttons",
+        "description": "buttons",
+        "isExtraImport": true,
+        "detail": "buttons",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "importPath": "display",
+        "description": "display",
+        "isExtraImport": true,
+        "detail": "display",
+        "documentation": {}
+    },
+    {
+        "label": "Info",
+        "importPath": "display",
+        "description": "display",
+        "isExtraImport": true,
+        "detail": "display",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "importPath": "main_window",
+        "description": "main_window",
+        "isExtraImport": true,
+        "detail": "main_window",
+        "documentation": {}
+    },
+    {
+        "label": "setupTheme",
+        "importPath": "styles",
+        "description": "styles",
+        "isExtraImport": true,
+        "detail": "styles",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib;",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib;",
+        "description": "pathlib;",
+        "detail": "pathlib;",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Button",
+        "kind": 6,
+        "importPath": "calculadora_PySide6.buttons",
+        "description": "calculadora_PySide6.buttons",
+        "peekOfCode": "class Button(QPushButton):\n    def __init__(self,*args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.configSytle()\n    def configSytle(self):\n        font = self.font()\n        font.setPixelSize(MEDIUM_FONT_SIZE)\n        self.setFont(font)\n        self.setMinimumSize(60,60)\n        self.setProperty('cssClass','specialButton')",
+        "detail": "calculadora_PySide6.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "ButtonsGrid",
+        "kind": 6,
+        "importPath": "calculadora_PySide6.buttons",
+        "description": "calculadora_PySide6.buttons",
+        "peekOfCode": "class ButtonsGrid(QGridLayout):\n    def __init__(\n            self, display: 'Display', info: 'Info', window: 'MainWindow',\n            *args, **kwargs\n    ) -> None:\n        super().__init__(*args, **kwargs)\n        self._gridMask = [\n            ['C','⌫','^','/'],\n            ['7','8' ,'9','*'],\n            ['4','5' ,'6','-'],",
+        "detail": "calculadora_PySide6.buttons",
+        "documentation": {}
+    },
+    {
+        "label": "Display",
+        "kind": 6,
+        "importPath": "calculadora_PySide6.display",
+        "description": "calculadora_PySide6.display",
+        "peekOfCode": "class Display(QLineEdit):\n    eqPressed = Signal()\n    delPressed = Signal()\n    clearPressed = Signal()\n    inputPressed = Signal(str)\n    operatorPressed = Signal(str)\n    def __init__(self,*args, **kwargs):\n        super().__init__(*args, **kwargs)\n        self.configStyle()\n    def configStyle(self):",
+        "detail": "calculadora_PySide6.display",
+        "documentation": {}
+    },
+    {
+        "label": "Info",
+        "kind": 6,
+        "importPath": "calculadora_PySide6.display",
+        "description": "calculadora_PySide6.display",
+        "peekOfCode": "class Info(QLabel):\n    def __init__(self, text : str, parents: QWidget | None = None) -> None:\n        super().__init__(text,parents)\n        self.configStyle()\n    def configStyle(self):\n        self.setStyleSheet(f'font-size: {SMALL_FONT_SIZE}px')\n        self.setMinimumHeight(SMALL_FONT_SIZE * 2)\n        self.setMinimumWidth(MINIMUM_WIDTH)\n        self.setAlignment(Qt.AlignmentFlag.AlignRight)",
+        "detail": "calculadora_PySide6.display",
+        "documentation": {}
+    },
+    {
+        "label": "MainWindow",
+        "kind": 6,
+        "importPath": "calculadora_PySide6.main_window",
+        "description": "calculadora_PySide6.main_window",
+        "peekOfCode": "class MainWindow(QMainWindow):\n    def __init__(self, parent: QWidget | None = None, *args, **kwargs) -> None:\n        super().__init__(parent,*args,**kwargs)\n        #configs\n        self.central_widget = QWidget()\n        self.vLayout = QVBoxLayout()\n        self.central_widget.setLayout(self.vLayout)    \n        self.setCentralWidget(self.central_widget)\n        #title\n        self.setWindowTitle('Calculator')",
+        "detail": "calculadora_PySide6.main_window",
+        "documentation": {}
+    },
+    {
+        "label": "setupTheme",
+        "kind": 2,
+        "importPath": "calculadora_PySide6.styles",
+        "description": "calculadora_PySide6.styles",
+        "peekOfCode": "def setupTheme():\n    qdarktheme.setup_theme(\n        theme='dark',\n        corner_shape='rounded',\n        custom_colors={\n            \"[dark]\": {\n                \"primary\": f\"{PRIMARY_COLOR}\",\n            },\n            \"[light]\": {\n                \"primary\": f\"{PRIMARY_COLOR}\",",
+        "detail": "calculadora_PySide6.styles",
+        "documentation": {}
+    },
+    {
+        "label": "qss",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.styles",
+        "description": "calculadora_PySide6.styles",
+        "peekOfCode": "qss = f\"\"\"\n    PushButton[cssClass=\"specialButton\"] {{\n        color: #fff;\n        background: {PRIMARY_COLOR};\n    }}\n    PushButton[cssClass=\"specialButton\"]:hover {{\n        color: #fff;\n        background: {DARKER_PRIMARY_COLOR};\n    }}\n    PushButton[cssClass=\"specialButton\"]:pressed {{",
+        "detail": "calculadora_PySide6.styles",
+        "documentation": {}
+    },
+    {
+        "label": "isNumOrDot",
+        "kind": 2,
+        "importPath": "calculadora_PySide6.utils",
+        "description": "calculadora_PySide6.utils",
+        "peekOfCode": "def isNumOrDot(string: str):\n    return bool(NUM_OR_DOT_REGEX.search(string))\ndef converToNumber(string: str):\n    number = float(string)\n    if number.is_integer():\n        number = int(number)\n    return number\ndef isValidNumber(string: str):\n    valid = False\n    try:",
+        "detail": "calculadora_PySide6.utils",
+        "documentation": {}
+    },
+    {
+        "label": "converToNumber",
+        "kind": 2,
+        "importPath": "calculadora_PySide6.utils",
+        "description": "calculadora_PySide6.utils",
+        "peekOfCode": "def converToNumber(string: str):\n    number = float(string)\n    if number.is_integer():\n        number = int(number)\n    return number\ndef isValidNumber(string: str):\n    valid = False\n    try:\n        float(string)\n        valid = True",
+        "detail": "calculadora_PySide6.utils",
+        "documentation": {}
+    },
+    {
+        "label": "isValidNumber",
+        "kind": 2,
+        "importPath": "calculadora_PySide6.utils",
+        "description": "calculadora_PySide6.utils",
+        "peekOfCode": "def isValidNumber(string: str):\n    valid = False\n    try:\n        float(string)\n        valid = True\n    except ValueError:\n        valid = False\n    return valid\ndef isEmpty(string: str):\n    return len(string) == 0",
+        "detail": "calculadora_PySide6.utils",
+        "documentation": {}
+    },
+    {
+        "label": "isEmpty",
+        "kind": 2,
+        "importPath": "calculadora_PySide6.utils",
+        "description": "calculadora_PySide6.utils",
+        "peekOfCode": "def isEmpty(string: str):\n    return len(string) == 0",
+        "detail": "calculadora_PySide6.utils",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_OR_DOT_REGEX",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.utils",
+        "description": "calculadora_PySide6.utils",
+        "peekOfCode": "NUM_OR_DOT_REGEX = re.compile(r'^[0-9.]$')\ndef isNumOrDot(string: str):\n    return bool(NUM_OR_DOT_REGEX.search(string))\ndef converToNumber(string: str):\n    number = float(string)\n    if number.is_integer():\n        number = int(number)\n    return number\ndef isValidNumber(string: str):\n    valid = False",
+        "detail": "calculadora_PySide6.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_DIR",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "ROOT_DIR = Path(__file__).parent\nFILES_DIR = ROOT_DIR / 'files'\nWINDOW_ICON_PATH = FILES_DIR / 'icon_calculator.png'\n#sizing\nMINIMUM_WIDTH = 400\nBIG_FONT_SIZE = 30\nMEDIUM_FONT_SIZE = 24\nSMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "FILES_DIR",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "FILES_DIR = ROOT_DIR / 'files'\nWINDOW_ICON_PATH = FILES_DIR / 'icon_calculator.png'\n#sizing\nMINIMUM_WIDTH = 400\nBIG_FONT_SIZE = 30\nMEDIUM_FONT_SIZE = 24\nSMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "WINDOW_ICON_PATH",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "WINDOW_ICON_PATH = FILES_DIR / 'icon_calculator.png'\n#sizing\nMINIMUM_WIDTH = 400\nBIG_FONT_SIZE = 30\nMEDIUM_FONT_SIZE = 24\nSMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "MINIMUM_WIDTH",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "MINIMUM_WIDTH = 400\nBIG_FONT_SIZE = 30\nMEDIUM_FONT_SIZE = 24\nSMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "BIG_FONT_SIZE",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "BIG_FONT_SIZE = 30\nMEDIUM_FONT_SIZE = 24\nSMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIUM_FONT_SIZE",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "MEDIUM_FONT_SIZE = 24\nSMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "SMALL_FONT_SIZE",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "SMALL_FONT_SIZE = 18\nTEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "TEXT_MARGINS",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "TEXT_MARGINS = 15\n# Colors\nPRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "PRIMARY_COLOR",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "PRIMARY_COLOR = '#1e81b0'\nDARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "DARKER_PRIMARY_COLOR",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "DARKER_PRIMARY_COLOR = '#16658a'\nDARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    },
+    {
+        "label": "DARKEST_PRIMARY_COLOR",
+        "kind": 5,
+        "importPath": "calculadora_PySide6.variables",
+        "description": "calculadora_PySide6.variables",
+        "peekOfCode": "DARKEST_PRIMARY_COLOR = '#115270'",
+        "detail": "calculadora_PySide6.variables",
+        "documentation": {}
+    }
+]
